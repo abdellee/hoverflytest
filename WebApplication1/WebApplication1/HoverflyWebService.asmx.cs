@@ -33,9 +33,11 @@ namespace WebApplication1
             Context.Response.ContentType = "application/json";
             return new Student()
             {
-                Name = "andy",
+                Name = "andy eddy edwards editing name and hoverfly over ",
                 Age = 25,
-                DateOfBirth = new DateTime(1993, 5, 12)
+                DateOfBirth = new DateTime(1993, 5, 12),
+                time = DateTime.Now.ToLongTimeString(),
+                city = "Hebron"
             };
         }
 
@@ -46,5 +48,7 @@ namespace WebApplication1
         public string Name { get; set; }
         public int Age { get; set; }
         public DateTime DateOfBirth { get; set; }
+        public string time { get; set; }
+        public string city { get; set; }
     }
 }

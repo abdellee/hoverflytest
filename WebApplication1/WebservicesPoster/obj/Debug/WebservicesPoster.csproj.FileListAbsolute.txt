@@ -1,0 +1,5 @@
+C:\Users\abdellee\Documents\Visual Studio 2017\Projects\hoverflytest\WebApplication1\WebservicesPoster\bin\Debug\WebservicesPoster.exe.config
+C:\Users\abdellee\Documents\Visual Studio 2017\Projects\hoverflytest\WebApplication1\WebservicesPoster\bin\Debug\WebservicesPoster.exe
+C:\Users\abdellee\Documents\Visual Studio 2017\Projects\hoverflytest\WebApplication1\WebservicesPoster\bin\Debug\WebservicesPoster.pdb
+C:\Users\abdellee\Documents\Visual Studio 2017\Projects\hoverflytest\WebApplication1\WebservicesPoster\obj\Debug\WebservicesPoster.exe
+C:\Users\abdellee\Documents\Visual Studio 2017\Projects\hoverflytest\WebApplication1\WebservicesPoster\obj\Debug\WebservicesPoster.pdb

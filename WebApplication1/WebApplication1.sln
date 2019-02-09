@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{C13FB889-E7C9-48D5-9934-85F4EED7B557}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebservicesPoster", "WebservicesPoster\WebservicesPoster.csproj", "{CDBA7FC5-0DB1-47F0-B3DA-807A0EA6E49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHttpProxy", "E:\testproxy\SimpleHttpProxy\SimpleHttpProxy\SimpleHttpProxy.csproj", "{F668C4B5-1BCF-4C17-9040-DB92B179DBAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C13FB889-E7C9-48D5-9934-85F4EED7B557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C13FB889-E7C9-48D5-9934-85F4EED7B557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C13FB889-E7C9-48D5-9934-85F4EED7B557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBA7FC5-0DB1-47F0-B3DA-807A0EA6E49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBA7FC5-0DB1-47F0-B3DA-807A0EA6E49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBA7FC5-0DB1-47F0-B3DA-807A0EA6E49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBA7FC5-0DB1-47F0-B3DA-807A0EA6E49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F668C4B5-1BCF-4C17-9040-DB92B179DBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F668C4B5-1BCF-4C17-9040-DB92B179DBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F668C4B5-1BCF-4C17-9040-DB92B179DBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F668C4B5-1BCF-4C17-9040-DB92B179DBAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
